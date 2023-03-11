@@ -1,0 +1,3 @@
+const cookies = 'eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpZCI6IjYzMWE0YTU3NWMwNWU5ZGEyZTJkYmEwMCIsImlhdCI6MTY2MjY2NzM1MSwiZXhwIjoxNjYzMDk5MzUxfQ.9lPwGEzg0qucNYxtMHbOj_Gkx-IQIm3Nvz9q8jW-yqo'
+
+module.exports = cookies;
